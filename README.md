@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SinzoL
-- 👀 I’m interested in C++,python,CSS,HTML
+- 👀 I’m interested in C++,python,Java,Vue
 - 🌱 I’m currently learning website making
 - 💞️ I’m looking to collaborate on game programming
 - 📫 How to reach me ...
